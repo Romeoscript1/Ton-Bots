@@ -1,2 +1,2 @@
 # Ton-Bots
-The Bot
+Ton Bot for trading the Ton Blockchain 
